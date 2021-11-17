@@ -1,0 +1,27 @@
+.about-container{
+    background-color: #09155F;
+    padding:3rem;
+    color:#62FFEA;
+   
+}
+.about-heading h3{
+    text-align:center;
+    font-size:40px;
+}
+.about-content p {
+    font-size:20px;
+    padding:1rem;
+    
+}
+.about-btnn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-btn{
+    cursor: pointer;
+    background-color: #F2BE13;
+    padding:5px;
+    border-radius: 12px;
+    color:#fff;
+}

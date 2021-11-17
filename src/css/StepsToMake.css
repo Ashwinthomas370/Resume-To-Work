@@ -1,0 +1,15 @@
+.StepsToMake-Container{
+  text-align: center;
+}
+.s
+.StepsToMake-Heading{
+    font-size: 40px;
+}
+.StepsToMake-btn{
+    background-color: #F2BE13;
+    padding:6px;
+    border-radius:12px;
+    border-style: none;
+    cursor: pointer;
+    color: #fff;
+}

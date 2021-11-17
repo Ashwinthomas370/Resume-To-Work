@@ -1,0 +1,37 @@
+/* our features */
+.features{
+ 
+  background-color: #09155F;
+  padding:2rem;
+}
+.features-heading{
+  text-align: center;
+  color: #62FFEA;
+  font-size:70px;
+  font-weight:400;
+}
+
+.Features-subheading{
+  color:#62FFEA;
+  font-size: 20px;
+  font-weight:100;
+  text-align: center;
+
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+ background-color: #fff;
+  text-align: justify;
+  padding: 3rem;;
+  margin: 60px;
+    border-radius: 35px 0 0 0;
+    width:20%;
+}
+.features-btn{
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,32 @@
+.call-to-action{
+  text-align: center;
+  padding:1rem;
+}
+
+.cta-btn{
+
+  background-color: #F2BE13;
+  padding:5px ;
+  border-radius:10px;
+  border-style: none;
+  cursor: pointer;
+}
+
+button a{
+  text-decoration: none;
+  color: #fff;
+}
+.cta-heading{
+  font-size: 80px;
+  padding:1rem;
+  color:#09155F;
+  font-weight:400;
+}
+.cta-sub-heading{
+
+  font-size: 30px;
+  padding:1rem;
+  color:#09155F;
+    font-weight:400;
+
+}

@@ -1,0 +1,27 @@
+.create-container{
+   padding: 1rem 10%;
+}
+
+.create-heading{
+    display:flex;
+    justify-content:center;
+    padding: 1rem 0;
+}
+
+.features-box{
+    background-color: #09155F;
+    width:30%;
+    color:#fff;
+    padding:1rem;
+    margin:10px;
+    border-radius: 20px;
+    
+}
+.create-content{
+    display:flex;
+    justify-content:center;
+    padding: 3rem 0;
+}
+.doc-logo{
+    width:150px;
+}

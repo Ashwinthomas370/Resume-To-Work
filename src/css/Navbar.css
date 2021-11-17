@@ -1,0 +1,30 @@
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  
+}
+
+.navbar-links ul{
+
+  margin: 0;
+  padding: 0;
+  display:flex;
+}
+.navbar-links li {
+  list-style: none;
+} 
+
+.navbar-links li a{
+text-decoration: none;
+padding:2rem;
+display:block;
+
+
+}
+span{
+  background-color: #09155F;
+  color: #fff;
+  padding:8px;
+  border-radius: 12px;
+}
