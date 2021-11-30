@@ -1,0 +1,18 @@
+.Resume-page{
+  text-align: center;
+}
+
+
+
+input[type=text] ,[type=email],[type=tel],[type=password] {
+  width: 30%;
+  background: transparent;
+    border: none;
+    border-bottom: 1px solid #09155F;
+}
+
+label {
+  padding: 15px 15px 15px 0;
+  display: inline-block;
+}
+

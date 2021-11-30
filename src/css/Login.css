@@ -1,0 +1,12 @@
+.main-container{
+    text-align: center;
+}
+
+.Login-btn{
+    color:#fff;
+    background-color: #09155F;
+    padding:10px;
+    border-radius: 5px;
+    border-style: none;
+    cursor: pointer;
+}

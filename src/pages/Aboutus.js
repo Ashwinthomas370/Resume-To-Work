@@ -1,6 +1,8 @@
+import React from "react";
+
 const about = () => {
   return (
-    <div>
+    <div id="About">
       <div class="container-fluid  about-container">
         <div className="about-heading">
           <h3>About Us</h3>

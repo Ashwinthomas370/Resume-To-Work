@@ -1,9 +1,11 @@
-const errorpage = () => {
-    return (
-        <div>
-            <h1>there  is no such  page,you dummy </h1>
-        </div>
-    )
-}
+import React from "react";
 
-export default errorpage
+const errorpage = () => {
+  return (
+    <div>
+      <h1>there is no such page,you dummy </h1>
+    </div>
+  );
+};
+
+export default errorpage;

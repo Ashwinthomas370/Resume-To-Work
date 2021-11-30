@@ -1,0 +1,33 @@
+.work-list{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.work-headings{
+    text-align:center;
+    font-size:30px;
+}
+.work-next-btn{
+   
+    padding:8px;
+background-color: #09155F;
+border-style: none;
+color: #fff;
+border-radius: 12px;
+cursor: pointer;
+margin: 10px;
+}
+.work{
+ display:flex;
+    justify-content: center;
+}
+.back-to-resume-btn{
+    padding:10px;
+    background-color: #09155F;
+border-style: none;
+color: #fff;
+border-radius: 12px;
+cursor: pointer;
+margin: 10px;
+}
+

@@ -1,0 +1,35 @@
+body{
+      margin: 0;
+    padding: 0;
+}
+.sidebar-container{
+    width: 100vh;
+    height: 100vh;
+  
+}
+.sidebar{
+height: 100%;
+width: 250px;
+background-color: #09155F;
+}
+.sidebar-list{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+        color: #fff;
+
+} .list-row{
+    width: 100%;
+    height: 50px;
+ 
+
+}
+.list-row:hover{
+    cursor: pointer;
+  
+}
+.sidebar-list #active{
+background-color: #c48e1a;
+width: auto;
+
+}
